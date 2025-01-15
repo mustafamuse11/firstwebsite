@@ -20,7 +20,7 @@ body{
 .hero p {
     font-size: 16px; 
     line-height: 1.8; 
-    color: #001f4d; /
+    color: #001f4d; 
     max-width: 800px; 
     margin: 0 auto; 
 }
@@ -33,11 +33,11 @@ body {
 }
 .top-bar {
     background-color: #001f4d; 
-    background-size: 2px;
     color: white;
     text-align: center;
-    font-size: 1px; 
-    line-height: 2px; 
+    font-size: 2px; 
+    line-height: 0px; 
+    
     
     
 

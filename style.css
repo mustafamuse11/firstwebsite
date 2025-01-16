@@ -107,6 +107,57 @@ nav .menu li a:hover {
 
 
 
+.container {
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+    justify-content: center; 
+    
+}
+
+    
+
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    overflow: hidden;
+    text-align: center;
+    
+    
+    
+    
+    
+}
+
+
+.card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    
+    
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #ff5c1c;
+    margin: 15px 10px;
+    
+}
+
+.card p {
+    font-size: 14px;
+    color: #333;
+    margin: 10px 15px 20px;
+    line-height: 1.6;
+}
+
+
+
 .h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
